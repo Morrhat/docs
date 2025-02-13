@@ -29,8 +29,11 @@
 
 ## Тестирование `API Яндекс.Прилавок`
 > Тестирование с помощью Postman
-#### Чек-лист с результатами тестирования HTTP-запросов (POST, GET, PUT, DELETE) для API веб-приложения `Яндекс.Прилавок`.
+#### Чек-лист с результатами тестирования отправки HTTP-запросов (POST, GET, PUT, DELETE) для API веб-приложения `Яндекс.Прилавок`.
 - [Таблица - Чек-лист с результатами тестирования HTTP-запросов](https://docs.google.com/spreadsheets/d/1G63bnfarMwZ9nyfRYtR0g2ipdNGesBzKfSVHo5EXqBI/edit?usp=sharing)
+
+#### Отчеты о дефектах при отправке HTTP-запросов (POST, GET, PUT, DELETE) для API веб-приложения `Яндекс.Прилавок`.
+- [Таблица - Отчеты о дефектах при отправке HTTP-запросов](https://docs.google.com/spreadsheets/d/1dfRfFcslteLSWSj74QBCkPOT0C7qQ9x8Iq7J1LCCZWs/edit?usp=sharing)
 
 
 ## Тестирование веб-приложения `Яндекс-Самокат`
@@ -53,6 +56,26 @@
 #### Отчеты о дефектах для мобильного приложения `Яндекс-Самокат`.
 - [Таблица - Отчеты о дефектах мобильного приложения](https://docs.google.com/spreadsheets/d/1WVizxDzCmZouFyHMyvFnu0KxoAp3hTcmBrVhrLB3UlE/edit?usp=sharing)
 
+## Тестирование других веб-приложений
+
+#### Отчеты о дефектах для веб-приложения `Место`.
+- [Таблица - Отчеты о дефектах веб-приложения](https://docs.google.com/spreadsheets/d/18vS8mDE8EvNwg-UTPJ8gEHOwDmkUzU_sbv4O5UvDYRE/edit?usp=sharing)
+
+#### Отчеты о дефектах для веб-приложения `Яндекс-Маршруты`.
+- [Таблица - Отчеты о дефектах веб-приложения](https://docs.google.com/spreadsheets/d/1NV349DgUBHyHSeI_b142wxImVdaNNH3Qm67hP68iyuI/edit?usp=sharing)
+
+#### Отчеты о дефектах для веб-приложения `StellarBurgers`.
+- [Таблица - Отчеты о дефектах веб-приложения](https://docs.google.com/spreadsheets/d/1jPeE3lXbfaa-Ei9tJ9UO46v9G7rhpFBsIIJ4sNqjmRU/edit?usp=sharing)
+- [Таблица - Отчеты о дефектах веб-приложения](https://docs.google.com/spreadsheets/d/112jREhO-8mZcvya2kcb7FH_116xa6ovLGtgAxPyHVEk/edit?usp=sharing)
+
+#### Отчеты о дефектах для веб-приложения `Продуктовый помощник`.
+- [Таблица - Отчеты о дефектах веб-приложения](https://docs.google.com/spreadsheets/d/1OO30uJ3jPkSS6jOKTMhXvFDKZeVgosLT0k3KHRn4YBE/edit?usp=sharing)
+- [Таблица - Отчеты о дефектах веб-приложения](https://docs.google.com/spreadsheets/d/1eaQaIUSEUBYUa4JbJ5alm6d0WAQmR3xV95ArSNSW5IM/edit?usp=sharing)
+  
+## Тестирование других мобильных приложений
+
+#### Отчеты о дефектах для мобильного приложения `Яндекс-Метро`.
+- [Таблица - Отчеты о дефектах мобильного приложения](https://docs.google.com/spreadsheets/d/1WKcjNSleqO4Mqu2W6BlzrzPnb-FOa5aNw7dOiwRFf40/edit?usp=sharing)
 ---
                                                           2025
 
