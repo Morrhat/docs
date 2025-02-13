@@ -12,9 +12,50 @@
 - [Тест-ран QASE в pdf - Тест-ран модулей регистрации, логина и каталога](G9-Express+run+2024_12_22.pdf)
 
 #### Отчеты о дефектах модулей регистрации, логина и каталога товаров веб-приложения `Интернет-магазин`.
-- [Баг-репорты YouTrack в xlsx - Отчеты о дефектах модулей регистрации, логина и каталога](https://github.com/Morrhat/docs/blob/main/Tasks_Youtrack_1.xlsx)
+- [Баг-репорты YouTrack в xlsx - Отчеты о дефектах модулей регистрации, логина и каталога](G9-Express+run+2024_12_22.pdf)
 
 #### Чек-лист с результатами тестирования для модулей регистрации, логина и каталога товаров веб-приложения `Интернет-магазин`.
 - [Таблица - Чек-лист с результатами тестирования модулей регистрации, логина и каталога товаров](https://docs.google.com/spreadsheets/d/1HDCs2CgYsczblyvluXCzT9CC9OO-gKy-fb97htLkhFQ/edit?usp=sharing)
+
+
+## Тестирование веб-приложения `НКО Procharity`
+
+#### Чек-лист с результатами тестирования модулей регистрации волонтёра и регистрации НКО для веб-приложения `НКО Procharity`.
+- [Таблица - Чек-лист с результатами тестирования модулей регистрации волонтёра и регистрации НКО](https://docs.google.com/spreadsheets/d/1WfJXx4zJe0OKwO0TjhdvmE7L5jKWs7QYE6cOl85kio0/edit?usp=sharing)
+
+#### Тест-кейсы модулей регистрации волонтёра и регистрации НКО для веб-приложения `НКО Procharity`.
+- [Таблица - Тест-кейсы модулей регистрации волонтёра и регистрации НКО](https://docs.google.com/spreadsheets/d/1a6wre7UyspTDRc1vnrcoITgjUqhqSA9xehMmOJBGX2o/edit?usp=sharing)
+
+
+## Тестирование `API Яндекс.Прилавок`
+> Тестирование с помощью Postman
+#### Чек-лист с результатами тестирования HTTP-запросов (POST, GET, PUT, DELETE) для API веб-приложения `Яндекс.Прилавок`.
+- [Таблица - Чек-лист с результатами тестирования HTTP-запросов](https://docs.google.com/spreadsheets/d/1G63bnfarMwZ9nyfRYtR0g2ipdNGesBzKfSVHo5EXqBI/edit?usp=sharing)
+
+
+## Тестирование веб-приложения `Яндекс-Самокат`
+
+#### Чек-лист с результатами тестирования страницы "Сделать заказ" для веб-приложения `Яндекс-Самокат`.
+- [Таблица - Чек-лист с результатами тестирования страницы "Сделать заказ"](https://docs.google.com/spreadsheets/d/1wMVYlpDSwAya3b6O61z3pG241K8cF3K0VQfLX8paH-g/edit?usp=sharing)
+
+#### Отчеты о дефектах страницы "Сделать заказ" для веб-приложения `Яндекс-Самокат`.
+- [Таблица - Отчеты о дефектах страницы "Сделать заказ"](https://docs.google.com/spreadsheets/d/1fhPKMJjQgY6mX4ZAQjLw6SRaREw1qmcZLA34JQgeUvU/edit?usp=sharing)
+
+
+## Тестирование мобильного приложения `Яндекс-Самокат`
+> Тестирование с помощью Android Studio и Postman
+#### Регрессионное тестирование по готовым тест-кейсам для мобильного приложения `Яндекс-Самокат`.
+- [Таблица - Тест-кейсы с результатами регресса](https://docs.google.com/spreadsheets/d/1mRi2XozWIrls8ej4G_iigOVZf3oq1N5GNsXfKCqnrG4/edit?usp=sharing)
+
+#### Ретест багов по готовым тест-кейсам для новой версии мобильного приложения `Яндекс-Самокат`.
+- [Таблица - Тест-кейсы с результатами ретеста](https://docs.google.com/spreadsheets/d/1kN_aHzaz59BA5ao0IFztBpWnnGlexH04blVwZhqWy2k/edit?usp=sharing)
+
+#### Отчеты о дефектах для мобильного приложения `Яндекс-Самокат`.
+- [Таблица - Отчеты о дефектах мобильного приложения](https://docs.google.com/spreadsheets/d/1WVizxDzCmZouFyHMyvFnu0KxoAp3hTcmBrVhrLB3UlE/edit?usp=sharing)
+
+---
+                                                          2025
+
+
 
 
