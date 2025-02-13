@@ -18,17 +18,6 @@
 - [Таблица - Чек-лист с результатами тестирования модулей регистрации, логина и каталога товаров](https://docs.google.com/spreadsheets/d/1HDCs2CgYsczblyvluXCzT9CC9OO-gKy-fb97htLkhFQ/edit?usp=sharing)
 
 
-## Тестирование мобильного приложения `Яндекс-Самокат`
-> Тестирование с помощью Android Studio и Postman
-#### Регрессионное тестирование по готовым тест-кейсам для мобильного приложения `Яндекс-Самокат`.
-- [Таблица - Тест-кейсы с результатами регресса](https://docs.google.com/spreadsheets/d/1mRi2XozWIrls8ej4G_iigOVZf3oq1N5GNsXfKCqnrG4/edit?usp=sharing)
-
-#### Ретест багов по готовым тест-кейсам для новой версии мобильного приложения `Яндекс-Самокат`.
-- [Таблица - Тест-кейсы с результатами ретеста](https://docs.google.com/spreadsheets/d/1kN_aHzaz59BA5ao0IFztBpWnnGlexH04blVwZhqWy2k/edit?usp=sharing)
-
-#### Отчеты о дефектах для мобильного приложения `Яндекс-Самокат`.
-- [Таблица - Отчеты о дефектах мобильного приложения](https://docs.google.com/spreadsheets/d/1WVizxDzCmZouFyHMyvFnu0KxoAp3hTcmBrVhrLB3UlE/edit?usp=sharing)
-
 ## Тестирование других веб-приложений
 
 #### Отчеты о дефектах для веб-приложения `Место`.
