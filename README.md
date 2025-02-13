@@ -18,7 +18,7 @@
 - [Таблица - Чек-лист с результатами тестирования модулей регистрации, логина и каталога товаров](https://docs.google.com/spreadsheets/d/1HDCs2CgYsczblyvluXCzT9CC9OO-gKy-fb97htLkhFQ/edit?usp=sharing)
 
 
-## Тестирование веб-приложения `НКО Procharity`
+## Тестирование веб-приложения `НКО Procharity` beta.procharity.ru
 
 #### Чек-лист с результатами тестирования модулей регистрации волонтёра и регистрации НКО для веб-приложения `НКО Procharity`.
 - [Таблица - Чек-лист с результатами тестирования модулей регистрации волонтёра и регистрации НКО](https://docs.google.com/spreadsheets/d/1WfJXx4zJe0OKwO0TjhdvmE7L5jKWs7QYE6cOl85kio0/edit?usp=sharing)
