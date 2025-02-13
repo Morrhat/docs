@@ -27,15 +27,6 @@
 - [Таблица - Тест-кейсы модулей регистрации волонтёра и регистрации НКО](https://docs.google.com/spreadsheets/d/1a6wre7UyspTDRc1vnrcoITgjUqhqSA9xehMmOJBGX2o/edit?usp=sharing)
 
 
-## Тестирование `API Яндекс.Прилавок`
-> Тестирование с помощью Postman
-#### Чек-лист с результатами тестирования отправки HTTP-запросов (POST, GET, PUT, DELETE) для API веб-приложения `Яндекс.Прилавок`.
-- [Таблица - Чек-лист с результатами тестирования HTTP-запросов](https://docs.google.com/spreadsheets/d/1G63bnfarMwZ9nyfRYtR0g2ipdNGesBzKfSVHo5EXqBI/edit?usp=sharing)
-
-#### Отчеты о дефектах при отправке HTTP-запросов (POST, GET, PUT, DELETE) для API веб-приложения `Яндекс.Прилавок`.
-- [Таблица - Отчеты о дефектах при отправке HTTP-запросов](https://docs.google.com/spreadsheets/d/1dfRfFcslteLSWSj74QBCkPOT0C7qQ9x8Iq7J1LCCZWs/edit?usp=sharing)
-
-
 ## Тестирование веб-приложения `Яндекс-Самокат`
 
 #### Чек-лист с результатами тестирования страницы "Сделать заказ" для веб-приложения `Яндекс-Самокат`.
