@@ -16,7 +16,7 @@
       <tr>
         <td>2</td>
         <td>Тестовый набор QASE в pdf - Тест-кейсы некоторых проверок модулей регистрации, логина и каталога товаров</td>
-        <td><a href= "G9-2024-12-19_QASE_Test-suite.pdf"><img title="publiclink" src="https://img.icons8.com/?size=100&id=80410&format=png&color=000000" width="40" height="40" alt="gmail"/></a></td>
+        <td><a href= "https://github.com/Morrhat/docs/blob/main/G9-2024-12-19_QASE_Test_suite.pdf"><img title="publiclink" src="https://img.icons8.com/?size=100&id=80410&format=png&color=000000" width="40" height="40" alt="gmail"/></a></td>
       </tr>
       <tr>
         <td>3</td>
